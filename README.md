@@ -125,13 +125,13 @@ yarn start
 ## 运行截图
 
 
-![截图](./images/a.png))
+![截图](./images/a.jpg))
 
 
-![截图](./images/b.pn))
+![截图](./images/b.jpg))
 
-![列表](./images/c.png)
+![列表](./images/c.jpg)
 
 
-![练习](./images/d.png)
+![练习](./images/chat.jpg)
 
