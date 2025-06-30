@@ -124,17 +124,14 @@ yarn start
 
 ## 运行截图
 
-### QAnything运行截图
-![QAnything服务截图](./images/1.png))
-*截图展示了嵌入的QAnything问答服务页面*
 
-### WakaTime API集成与展示截图
-![WakaTime统计截图](https://example.com/screenshots/wakatime.png)
-*截图展示了页脚中显示的累计编码时长*
+![截图](./images/a.png))
 
-### Next.js组织课程练习作业的运行截图
-![课程练习列表](https://example.com/screenshots/exercises-list.png)
-*截图展示了课程练习导航页面*
 
-![HTML基础练习](https://example.com/screenshots/html-basics.png)
-*截图展示了HTML基础练习的运行界面* 
+![截图](./images/b.pn))
+
+![列表](./images/c.png)
+
+
+![练习](./images/d.png)
+
