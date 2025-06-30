@@ -130,7 +130,7 @@ yarn start
 
 ![截图](./images/b.jpg))
 
-![列表](./images/c.jpg)
+![列表](./images/c.png)
 
 
 ![练习](./images/chat.jpg)
