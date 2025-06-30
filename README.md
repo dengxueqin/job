@@ -125,7 +125,7 @@ yarn start
 ## 运行截图
 
 ### QAnything运行截图
-![QAnything服务截图](https://example.com/screenshots/qanything.png)
+![QAnything服务截图]([https://example.com/screenshots/qanything.png](https://github.com/dengxueqin/job/blob/main/images/a.jpg))
 *截图展示了嵌入的QAnything问答服务页面*
 
 ### WakaTime API集成与展示截图
